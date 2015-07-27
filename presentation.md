@@ -3,32 +3,32 @@
 % July 22, 2015
 
 ###Sports in the World
-1. First popular sports
-2. Second viewer stats
+1. popular sports
+2. viewer stats
 
 ###Sports in the USA
-1. First Stats of big sports
-2. Second compare to men's soccer
-3. Third compare to women's soccer
+1. Stats of big sports
+2. compare to men's soccer
+3. compare to women's soccer
 
 ###Why no love?
-1. First stats of uswnt success
-	1. Alpha UNC women's success
+1. stats of uswnt success
+	1. UNC women's success
 2. Second stats of unfairness
-	1. Alpha discrepancy in pay
+	1. discrepancy in pay
   
 ###Minimal Change
-1. First Sports Illustrated covers
-2. Second Alex Morgan FIFA cover
-3. Third Tape parade
-4. Fourth show appearances
+1. Sports Illustrated covers
+2. Alex Morgan FIFA cover
+3. Tape parade
+4. show appearances
 
 ###Short or Long term?
-1. First stats on young athletes
-2. Second not a phase
+1. stats on young athletes
+2. not a phase
 
 ###Solutions?
-1. First deserved support
+1. deserved support
 
 
   
